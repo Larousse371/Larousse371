@@ -1,3 +1,3 @@
 if __name__ == "__main__":
-    name = input("Good Morning! What is your name? ")
-    print(f"Hello, {name}! my name is Adam is it very nice to meet you!")
+    name = input("Good Evening! my name is Lucy what is yours? ")
+    print(f"Well, {name}! it is very nice to meet you hope your evening is wellLa!")
