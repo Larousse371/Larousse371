@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    number_of_eggs = 84
+    number_of_eggs = 20
 
     boxes_of_twelve = number_of_eggs // 12
     boxes_of_six = (number_of_eggs % 12) // 6
