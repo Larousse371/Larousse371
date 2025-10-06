@@ -1,6 +1,6 @@
 if __name__ == "__main__":
-    distance = 150
-    time = 120
+    distance = 60
+    time = 220
 
     mph = distance / (time / 60)
 
