@@ -1,9 +1,9 @@
 if __name__ == "__main__":
-    matches = 400
-    times_batted = 360
-    times_not_out = 80
-    runs_scored =500
+    matches = 300
+    times_started = 280
+    times_not_out = 25
+    goals_scored =168
 
-    batting_average = runs_scored / (times_batted - times_not_out)
+    batting_average = goals_scored / (times_started - times_not_out)
 
-    print(f"Sir Geoffrey Boycott's Batting Average is {batting_average:.2f}.")
+    print(f"Mr Larousse Isaac's average goal per game {batting_average:.2f}.")
