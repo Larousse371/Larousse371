@@ -1,9 +1,9 @@
 if __name__ == "__main__":
-    name = input("Good Afternoon, what is your name? ")
+    name = input("Good Evening, what is your full name? ")
 
     current_year = int(input("How old are you? "))
-    birth_year = int(input("What year was you born? "))
+    birth_year = int(input("What year are we in? "))
 
     age = current_year - birth_year
 
-    print(f"Hello, {name}! This year you will be {age} years old!")
+    print(f"Hello, {name}! In 10 years you will be {age} years old!")
