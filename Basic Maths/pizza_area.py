@@ -1,8 +1,8 @@
 from math import pi
 
 if __name__ == "__main__":
-    pizza_size = 7
-    number_of_pizzas = 4
+    pizza_size = 24
+    number_of_pizzas = 10
 
     pizza_area = pi * (pizza_size / 2) ** 2
     total_area = pizza_area * number_of_pizzas
