@@ -1,8 +1,8 @@
 if __name__ == "__main__":
-    matches = 123
-    times_started = 96
-    times_not_out = 15
-    goals_scored =20
+    matches = 80
+    times_started = 71
+    times_not_out = 9
+    goals_scored =84
 
     batting_average = goals_scored / (times_started - times_not_out)
 
