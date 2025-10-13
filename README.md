@@ -1,4 +1,9 @@
 ## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-DARKMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DARKMODE-IMAGE">
+</picture>
 
 <!--
 **Larousse371/Larousse371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
